@@ -8,5 +8,4 @@
 </p>
 
 
-<h2 align="center">Hello there! My name is Tiger Wang. 👋😄  \
-歡迎來到王琥的github!</h2>
+<h2 align="center">Hello there! My name is Tiger Wang. 👋😄 <br /> 歡迎來到王琥的github!</h2>
