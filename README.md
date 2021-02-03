@@ -24,3 +24,17 @@
 
 <h3 align="center">💻 Finished Projects or currently working on: <br />
 目前進行中/已完成的項目：</h3>
+
+<p align="center">
+  <a href="https://github.com/tiger1026/Credit-Card-Customers">**Credit Card Customers**💰</a>
+  <br />
+  <a href="https://github.com/tiger1026/Credit-Card-Customers">**信用卡用戶資料**</a>
+  <br />
+  Classification with XGBoost and other models to predict how many customers are leaving a bank's credit card service. 95% accuracy reached with randomized grid search on XGBoost
+  <br />
+  分類行數據模型，使用XGBoost來預測有哪些客人會離開這家銀行的信用卡服務。95%的準確預測。
+  <br>
+  <br>
+  <a href="https://github.com/tiger1026/Web-Scraping">**Web Scraping on PTT**💰</a>
+  
+  
