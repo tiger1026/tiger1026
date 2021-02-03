@@ -26,9 +26,7 @@
 目前進行中/已完成的項目：</h3>
 
 <p>
-  <a href="https://github.com/tiger1026/Credit-Card-Customers">Credit Card Customers💰</a>
-  <br />
-  <a href="https://github.com/tiger1026/Credit-Card-Customers">信用卡用戶資料</a>
+  <a href="https://github.com/tiger1026/Credit-Card-Customers">Credit Card Customers 信用卡用戶資料💰</a>
   <br />
   Classification with XGBoost and other models to predict how many customers are leaving a bank's credit card service. 95% accuracy reached with randomized grid search on XGBoost
   <br />
@@ -36,8 +34,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/tiger1026/Web-Scraping">Web Scraping on PTT🔎</a>
-  <a href="https://github.com/tiger1026/Web-Scraping">PTT 網路爬蟲🔎</a>
+  <a href="https://github.com/tiger1026/Web-Scraping">Web Scraping 網路爬蟲🔎</a>
     <br />
   Web Scraping on Taiwanese social media website PTT, Dcard, and IMDB Moving rating site. NLP and wordcloud vizualization.
   <br />
