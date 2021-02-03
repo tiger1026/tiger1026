@@ -41,4 +41,20 @@
   在PTT，Dcard，以及IMDB三個網站製作網絡爬蟲和自然語言處理，并再用文字雲吧數據圖像化。
 </p>
   
- 
+<p>
+  <a href="https://github.com/tiger1026/NewsPredictionModel">News Prediction Model 新聞報道標題分析📃</a>
+    <br />
+  The model uses the CountVectoroizer function to split headlines in to single words or phrases, and we will model these with a logistic model. Divide them into a train and test model, then predicting our test model with the training model.
+  <br />
+  使用CountVectorizer來做新聞標題的自然語言處理，在透過logistic regression來找出那些關鍵詞會讓一篇新聞排在第頭條。
+</p>
+
+<p>
+  <a href="https://github.com/tiger1026/MazeSolver">Maze Solver - Java 自動迷宮解題程式🎮</a>
+    <br />
+  Simple maze solver done with java with the depth first search algorithm
+  <br />
+  能夠自動跑出迷宮的答案。
+</p>
+  
+  
