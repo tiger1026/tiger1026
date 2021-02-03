@@ -37,5 +37,11 @@
 
 <p>
   <a href="https://github.com/tiger1026/Web-Scraping">Web Scraping on PTT🔎</a>
+  <a href="https://github.com/tiger1026/Web-Scraping">PTT 網路爬蟲🔎</a>
+    <br />
+  Web Scraping on Taiwanese social media website PTT, Dcard, and IMDB Moving rating site. NLP and wordcloud vizualization.
+  <br />
+  在PTT，Dcard，以及IMDB三個網站製作網絡爬蟲和自然語言處理，并再用文字雲吧數據圖像化。
+</p>
   
-  
+ 
