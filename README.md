@@ -8,5 +8,5 @@
 </p>
 
 
-<h2 align="center">Hello there! My name is Stephen Ajulu. 👋🤓\ 
-  align="center">嗨！歡迎來到我的Github</h2>
+<h2 align="center">Hello there! My name is Tiger Wang. 👋😄\
+歡迎來到王琥的github!</h2>
