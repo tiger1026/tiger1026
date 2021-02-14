@@ -50,6 +50,14 @@
 </p>
 
 <p>
+  <a href="https://github.com/tiger1026/GrocerySalesForcast">Grocery Sales EDA 商場購物資料圖表化🍎</a>
+    <br />
+  Data viz for grocery sales data.
+  <br />
+  數據圖標化的練習。
+</p>
+
+<p>
   <a href="https://github.com/tiger1026/MazeSolver">Maze Solver - Java 自動迷宮解題程式🎮</a>
     <br />
   Simple maze solver done with java with the depth first search algorithm
