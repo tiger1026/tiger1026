@@ -9,14 +9,14 @@
 
 <h2 align="center">Hello there! My name is Tiger Wang. 👋😄 <br /> 歡迎來到王琥的github!</h2>
 <p align="center">
-  I'm a Data Analyst, Digital Marketing Analyst, and Data Enthusiast from Taipei, Taiwan. Currently pursuing a career in the field of analytics, including Data Analyst, Data Science, Business Analyst and any analytical roal. 
+  I'm a Data Analyst and Data Enthusiast from Taipei, Taiwan. Currently pursuing a career in the field of analytics, including Data Analyst, Data Science, Business Analyst and any analytical roal. 
   <br /> 
   I have a BS.c in Mathematics from the University of British Columbia🎓, and that is where I developed a passion towards analytics and data. <br /> Passionate and enthusiastic about Python, SQL, Tableau, R, Statistics, Mathamatics, and a little bit of Economics and Finance.😍  
   <br />
   When I'm not learning and developing new ML algorithms or studying about analytics, you can find me watching youtube, reading, watching anime, browsing Reddit, discovering resturants, working out🏀, or enjoying a rare night out! 🍻 
   <br />
   <br />
-  我是一名來自臺北的數據分析師，網路營銷分析師，以及數據愛好者。畢業與英屬哥倫比亞大學數學系，我在上學的時候就漸漸對分析以及數據產生了興趣。我目前的熱情在於Python, SQL, Tableau, R, 統計, 以及數學，對金融跟經濟也有興趣。我平時休閑喜歡去看看youtube，看書，看Reddit論壇，尋找美食，運動，喝茶，以及時不時和朋友出去玩。
+  我是一名來自臺北的數據分析師以及數據愛好者。畢業與英屬哥倫比亞大學數學系，我在上學的時候就漸漸對分析以及數據產生了興趣。我目前的熱情在於Python, SQL, Tableau, R, 統計, 以及數學，對金融跟經濟也有興趣。我平時休閑喜歡去看看youtube，看書，看Reddit論壇，尋找美食，運動，喝茶，以及時不時和朋友出去玩。
 </p>
 
 
@@ -24,6 +24,21 @@
 
 <h3 align="center">💻 Finished Projects or currently working on: <br />
 目前進行中/已完成的項目：</h3>
+
+<p>
+  <a href="https://github.com/tiger1026/ML-Basics/blob/main/Classification/MNIST.ipynb">MNIST Classification MNIST圖形分類</a>
+  <br />
+  Classification with multiple models (Xgboost, KNN, binary, etc.) Also includes stacking ensemble and blender. score: 0.9678.
+  <br />
+  分類行數據模型, score: 0.9678.
+</p>
+
+<p>
+  <a href="https://github.com/tiger1026/ML-Basics/blob/main/Regression%20-%20Predciting%20Quantity/Regression%20On%20California%20Housing%20Price.ipynb"> Regressison with California Housing Data 加州房價預測</a>
+  <br />
+  RSME：47730.22690385927
+</p>
+
 
 <p>
   <a href="https://github.com/tiger1026/Credit-Card-Customers">Credit Card Customers 信用卡用戶資料💰</a>
