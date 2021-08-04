@@ -26,6 +26,14 @@
 目前進行中/已完成的項目：</h3>
 
 <p>
+  <a href="https://github.com/tiger1026/Banking-Projects">Banking Projects 銀行類專安</a>
+  <br />
+  Currently working on a project on Product Recommendation with Santander data from Kaggle. 
+  <br />
+  正在進行: 銀行客戶商品推薦分析
+</p>
+
+<p>
   <a href="https://github.com/tiger1026/ML-Basics/blob/main/Classification/MNIST.ipynb">MNIST Classification MNIST圖形分類</a>
   <br />
   Classification with multiple models (Xgboost, KNN, binary, etc.) Also includes stacking ensemble and blender. score: 0.9678.
